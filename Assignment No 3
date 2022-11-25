@@ -1,8 +1,8 @@
+
+
 from sklearn.feature_extraction.text import CountVectorizer
 
-document = ["How Are You Mr XD Tahir",
-
-			"It's Pleasure To Meet You",			"So You Work In A Software Company"]
+document = ["I might not be able to know everything about you, my dear, because each day is another avenue for me to know you a bit more than before, get closer to you, and cherish you so much more than ever before. And I want you to know that one of the reasons I’m with you is knowing you much better. I adore you, my beautiful friend."]
 
 # Create a Vectorizer Object
 
@@ -23,3 +23,25 @@ vector = vectorizer.transform(document)
 print("Encoded Document is:")
 
 print(vector.toarray())
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
