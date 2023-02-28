@@ -25,7 +25,7 @@ _Sameer = [77, 78, 85,86,86,86,87,87,88,94,99,103]
 even = np.median(_Sameer)
 
 print(even)
-
+sdfsdfdsfsdfdsfds
 print("Qno. 3: Find the mode of the dataset, hence we use Sameer_1 dataset")
 
 sp = np.mod(Sameer_1)
